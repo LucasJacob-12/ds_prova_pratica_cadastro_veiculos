@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\gerenciadorveiculos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|c:\\users\\lucas.jacob\\desktop\\ds\\01_aula\\gerenciadorveiculos\\gerenciadorveiculos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|c:\\users\\lucas.jacob\\desktop\\ds\\01_aula\\gerenciadorveiculos\\gerenciadorveiculos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:gerenciadorveiculos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Conex\u00E3oBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:GerenciadorVeiculos\\Conex\u00E3oBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA4E174-684E-4A1A-B1FC-94E40C0E0973}|GerenciadorVeiculos\\GerenciadorVeiculos.csproj|solutionrelative:GerenciadorVeiculos\\Carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\Form1.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv1YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:03:02.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.Designer.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:47:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Form1.cs",
+              "ToolTip": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Form1.cs [Design]",
+              "RelativeToolTip": "GerenciadorVeiculos\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:47:34.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conex\u00E3oBD.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Conex\u00E3oBD.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Conex\u00E3oBD.cs",
+              "ToolTip": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Conex\u00E3oBD.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\Conex\u00E3oBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:47:22.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Carro.cs",
+              "RelativeDocumentMoniker": "GerenciadorVeiculos\\Carro.cs",
+              "ToolTip": "C:\\Users\\lucas.jacob\\Desktop\\DS\\01_aula\\GerenciadorVeiculos\\GerenciadorVeiculos\\Carro.cs",
+              "RelativeToolTip": "GerenciadorVeiculos\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:47:01.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
